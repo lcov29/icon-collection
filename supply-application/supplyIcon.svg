@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20mm"
+   height="19mm"
+   viewBox="0 0 20 19"
+   version="1.1"
+   id="svg2050"
+   sodipodi:docname="supplyIcon.svg"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2054" />
+  <sodipodi:namedview
+     id="namedview2052"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="11.237829"
+     inkscape:cx="37.863185"
+     inkscape:cy="35.994497"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2050" />
+  <g
+     fill="none"
+     stroke="gray"
+     id="g2042"
+     style="stroke:#e0e0e0;stroke-opacity:1">
+    <path
+       stroke-width=".709"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="M2.392 2.876h5.716v1.908H2.392z"
+       id="path2038"
+       style="stroke:#e0e0e0;stroke-opacity:1" />
+    <path
+       d="M8.498 10.56c0 3.293-.042 4.163-.006 5.994.004.193-1.74.117-3.444.112-1.598-.006-3.185.187-3.178-.345.014-1.189.013-3.985.004-5.761-.017-3.294 1.518-5.611 3.347-5.611 1.83 0 3.277 2.317 3.277 5.61z"
+       stroke-width="1.028"
+       stroke-linecap="square"
+       stroke-miterlimit="4.8"
+       id="path2040"
+       style="stroke:#e0e0e0;stroke-opacity:1" />
+  </g>
+  <g
+     fill="none"
+     stroke="gray"
+     id="g2048"
+     style="stroke:#e0e0e0;stroke-opacity:1">
+    <path
+       stroke-width=".709"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="M11.912 2.842h5.716V4.75h-5.716z"
+       id="path2044"
+       style="stroke:#e0e0e0;stroke-opacity:1" />
+    <path
+       d="M18.017 10.527c0 3.293-.041 4.163-.005 5.994.004.193-1.74.117-3.445.112-1.597-.006-3.184.187-3.178-.345.014-1.189.014-3.985.005-5.761-.017-3.294 1.518-5.612 3.347-5.612s3.276 2.318 3.276 5.612z"
+       stroke-width="1.028"
+       stroke-linecap="square"
+       stroke-miterlimit="4.8"
+       id="path2046"
+       style="stroke:#e0e0e0;stroke-opacity:1" />
+  </g>
+</svg>
